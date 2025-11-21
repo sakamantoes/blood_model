@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1763764871617,
+    "Age": 30,
+    "Sex": "F",
+    "Hemoglobin": 12.5,
+    "Hematocrit": 36,
+    "RBC": 4.2,
+    "MCV": 90,
+    "MCH": 27,
+    "MCHC": 30,
+    "WBC": 7,
+    "Platelets": 250,
+    "result": "No anemia",
+    "anemia": 0,
+    "probability": 0.04666666666666667,
+    "timestamp": "2025-11-21T22:41:11.618Z"
+  }
+]
