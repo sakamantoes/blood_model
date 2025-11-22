@@ -15,5 +15,39 @@
     "anemia": 0,
     "probability": 0.04666666666666667,
     "timestamp": "2025-11-21T22:41:11.618Z"
+  },
+  {
+    "id": 1763770079405,
+    "Age": 30,
+    "Sex": "F",
+    "Hemoglobin": 12.5,
+    "Hematocrit": 36,
+    "RBC": 4.2,
+    "MCV": 90,
+    "MCH": 27,
+    "MCHC": 30,
+    "WBC": 7,
+    "Platelets": 250,
+    "result": "No anemia",
+    "anemia": 0,
+    "probability": 0.04666666666666667,
+    "timestamp": "2025-11-22T00:07:59.405Z"
+  },
+  {
+    "id": 1763770312046,
+    "Age": "28",
+    "Sex": "F",
+    "Hemoglobin": "8.2",
+    "Hematocrit": "25",
+    "RBC": "3.1",
+    "MCV": "78",
+    "MCH": "22",
+    "MCHC": "28",
+    "WBC": "6.5",
+    "Platelets": "280",
+    "result": "Anemia",
+    "anemia": 1,
+    "probability": 0.94,
+    "timestamp": "2025-11-22T00:11:52.046Z"
   }
 ]
